@@ -52,7 +52,7 @@ This project analyzes retail sales, inventory, and business performance using Mi
 
 ## 💡 Key Insights
 
-- The dashboard tracks overall retail revenue, profit, units sold, and inventory levels.
+- The dashboard provides an overview of retail revenue, profit, units sold, and inventory levels.
 - Low stock analysis helps identify categories that require immediate restocking.
 - Sales performance varies across different sales channels and store formats.
 - Payment mode distribution provides insights into customer purchasing preferences.
